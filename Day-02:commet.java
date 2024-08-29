@@ -5,7 +5,7 @@ import java.util.*; // import is a keyword used to include the package in your c
 class Hello {
     // The main method: entry point of the program
     public static void main(String[] args) {
-        // Prints "hello world!" to the console
+        // Prints "hello world!" to the screen
         System.out.println("Hello, world!");
     }
 }
