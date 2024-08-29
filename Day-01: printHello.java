@@ -1,5 +1,5 @@
 import java.util.*;
-class printHello
+class PrintHello
 {
       public static void main(String []arr)
   {
